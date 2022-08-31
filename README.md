@@ -1,3 +1,3 @@
 # tokenswapapp
 
-hello! this helps track the dswap app 
+hello! this is a simple token swap dapp.
